@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "result": [
+    {
+      "name": "KADİR NAZ ECZANESİ",
+      "dist": "SANCAKTEPE",
+      "address": "Sarıgazi Mah. Namık Kemal Cad. No:45/A",
+      "phone": "2166212234",
+      "loc": "41.006483,29.207245"
+    },
+    {
+      "name": "ÇAĞLA ECZANESİ",
+      "dist": "SANCAKTEPE",
+      "address": "Atatürk Mahallesi Demokrasi Caddesi, 36",
+      "phone": "2166217659",
+      "loc": "41.011149,29.217453"
+    },
+    {
+      "name": "RESİM ECZANESİ",
+      "dist": "SANCAKTEPE",
+      "address": "EYÜPSULTAN MAH. KIZILAY CAD. NO:69",
+      "phone": "2163110204",
+      "loc": "40.981147,29.221311"
+    },
+    {
+      "name": "SANCAKTEPE HEKİMOĞLU ECZANESİ",
+      "dist": "SANCAKTEPE",
+      "address": "İnönü Mah. Aşık Veysel Cad. No:5/7B Sancaktepe",
+      "phone": "2166217061",
+      "loc": "41.010924,29.211662"
+    }
+  ]
+}
